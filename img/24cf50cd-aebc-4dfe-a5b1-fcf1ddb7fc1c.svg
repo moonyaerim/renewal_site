@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-scroll="item" data-module-timeline="mouthGreen" data-scroll-progress-call="progress,Timeline,mouthGreen" data-timeline-from="{&quot;scale&quot;:1}" data-timeline-to="{&quot;scale&quot;:0.6}" data-scroll-target="#headerHero" data-scroll-start="top top" data-scroll-end="bottom center" viewBox="0 0 157.7 108.2" role="img" style="translate: none; rotate: none; scale: none; transform: scale(0.6, 0.6);" class="is-inview">
+                <path class="mouth-spot" d="M124.4,0.1c5.6-0.2,7.3,1.5,7,6.9c-0.3,4.7-2.7,7.5-7.3,8.3c-3.9,0.7-8.6-1.6-10.2-5.1c-1.1-2.3,0.1-6,2.4-7.3
+                    C118.8,1.5,121.2-0.5,124.4,0.1"></path>
+                <path class="mouth-part" d="M4.5,68.2c0,0,39.8-42.7,57.6-32.4c17.8,10.3,21.4,16.3,21.4,16.3s13.8-20.3,32-14
+                    c18.2,6.3,37.6,36.4,37.6,36.4c-6.8-5.1-37.5-13.5-70.9-13.9c-33.3-0.4-70.1,15.5-70.1,15.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path class="mouth-part" d="M153.2,74.6c0,0-27.8,35.7-68.5,28.1c-25.4-4.8-72.5-26.5-72.5-26.5s87.2,11.1,131.5,0" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
