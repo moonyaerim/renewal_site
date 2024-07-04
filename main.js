@@ -435,11 +435,11 @@ gsap.timeline({
       scrub:true,
   }
 })
-.fromTo(".sec8 .s8_i1",{y:"400%"},{y:0},1.2)
-.fromTo(".sec8 .s8_i2",{y:"400%"},{y:0},1.4)
-.fromTo(".sec8 .s8_i3",{y:"400%"},{y:0},1.6)
-.fromTo(".sec8 .s8_i4",{y:"400%"},{y:0},1.8)
-.fromTo(".sec8 .s8_i5",{y:"400%"},{y:0},2)
+.fromTo(".sec8 .s8_i1",{y:500, transform:"translate(-50%,-50%) rotate(15deg)"},{y:0},1.2)
+.fromTo(".sec8 .s8_i2",{y:"400%", transform:"translate(-50%,-50%) rotate(-15deg)"},{y:0},1.4)
+.fromTo(".sec8 .s8_i3",{y:"400%", transform:"translate(-50%,-50%) rotate(30deg)"},{y:0},1.6)
+.fromTo(".sec8 .s8_i4",{y:"400%", transform:"translate(-50%,-50%) rotate(-2deg)"},{y:0},1.8)
+.fromTo(".sec8 .s8_i5",{y:"400%" ,transform:"translate(-50%,-50%) rotate(10deg)"},{y:0},2)
 .fromTo(".sec8 .s8_l1",{height:0},{height:"451px"})
 
 

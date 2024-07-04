@@ -788,16 +788,16 @@ header .box2:hover .menu_Ani2::after {
 .sec8 .s8_img{
   position: absolute;
   top: 50%; left: 50%;
-  transform: translate(-50%,-50%);
+  /* transform: translate(-50%,-50%); */
 }
-.sec8 .s8_img img{
+.sec8 img{
   position: absolute; top: 0; left: 0;
-  /* top: 50%; left: 50%; */
+  top: 50%; left: 50%;
   width: 350px;
   border-radius: 20px;
 }
-.s8_img .s8_i1{
-  transform: translate(-50%,-50%) rotate(15deg);
+/* .sec8 .s8_i1{
+  transform: rotate(15deg);
 }
 .s8_img .s8_i2{
   transform: translate(-50%,-50%) rotate(-15deg);
@@ -810,10 +810,11 @@ header .box2:hover .menu_Ani2::after {
 }
 .s8_img .s8_i5{
   transform: translate(-50%,-50%) rotate(10deg);
-}
+} */
 .sec8 .s8_s4{
   position: absolute; bottom: 133px; right: 76px;
   transform: rotate(4deg);
+  top: initial; left: initial;
   width: 500px;
 }
 .sec8 .s8_s5{
@@ -823,7 +824,7 @@ header .box2:hover .menu_Ani2::after {
   position: relative;
 }
 .s8_l1{
-  position: absolute; top: 803px; left: 50%;
+  position: absolute; top: 811px; left: 50%;
   background-color: #00232E;
   width: 3px; height: 451px;
   z-index: 5;
